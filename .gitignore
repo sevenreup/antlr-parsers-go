@@ -1,0 +1,6 @@
+**/*.tokens
+**/*.interp
+**/*.errors
+**/*.log
+.bin/
+**/*.coverprofile
